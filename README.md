@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<h1>GPT-SoVITS v3 LoRA — Voice Conversion &amp; Text-to-Speech</h1>
+<h1>GPT-SOVITS V3 LORA — VOICE CONVERSION &amp; TEXT-TO-SPEECH</h1>
 A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
 <p><strong>AI Lab Project by TANUJ SINGH — Roll No. 2402221530129</strong><br>
 <strong>Under the guidance of Ms. ANJALI SRIVASTAVAA Ma'am.</strong></p>
