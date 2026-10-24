@@ -1,8 +1,13 @@
 <div align="center">
 
 
-<h1>GPT-SoVITS-WebUI</h1>
+<h1>GPT-SoVITS v3 LoRA — Voice Conversion &amp; Text-to-Speech</h1>
 A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
+<p><strong>AI Lab Project by Tanuj Singh — Roll No. 2402221530129</strong><br>
+<strong>Under the guidance of Ms. Anjali Srivastavaa Ma'am.</strong></p>
+
+<p>Student project based on the <a href="https://github.com/RVC-Boss/GPT-SoVITS">RVC-Boss/GPT-SoVITS</a> codebase. Original attribution and license are retained below.</p>
+
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/RVC-Boss/GPT-SoVITS)
 
@@ -372,4 +377,4 @@ Thankful to @Naozumi520 for providing the Cantonese training set and for the gui
 
 ## This repository snapshot
 
-This private repository contains source and configuration files only. Bundled runtimes, pretrained and fine-tuned model weights, training logs, generated outputs, local audio, and local memory files are excluded. Obtain model assets separately and follow their licenses.
+This repository snapshot contains source and configuration files only. Bundled runtimes, pretrained and fine-tuned model weights, training logs, generated outputs, local audio, and local memory files are excluded. Obtain model assets separately and follow their licenses.
