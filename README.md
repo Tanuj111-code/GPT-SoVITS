@@ -2,11 +2,9 @@
 
 
 <h1>GPT-SOVITS V3 LORA — VOICE CONVERSION &amp; TEXT-TO-SPEECH</h1>
-<h1>AI Lab Project by TANUJ SINGH — Roll No. 2402221530129</strong><br>
-<strong>Under the guidance of Ms. ANJALI SRIVASTAVAA Ma'am</h1>
+<h1>AI Lab Project by TANUJ SINGH - 2402221530129</strong><br>
+<strong>Under the guidance of Ms. ANJALI SRIVASTAVAA Ma'am.</h1>
 A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
-<p><strong>AI Lab Project by TANUJ SINGH — Roll No. 2402221530129</strong><br>
-<strong>Under the guidance of Ms. ANJALI SRIVASTAVAA Ma'am.</strong></p>
 
 <p>Student project based on the <a href="https://github.com/RVC-Boss/GPT-SoVITS">RVC-Boss/GPT-SoVITS</a> codebase. Original attribution and license are retained below.</p>
 
