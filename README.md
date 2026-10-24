@@ -3,8 +3,8 @@
 
 <h1>GPT-SoVITS v3 LoRA — Voice Conversion &amp; Text-to-Speech</h1>
 A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
-<p><strong>AI Lab Project by Tanuj Singh — Roll No. 2402221530129</strong><br>
-<strong>Under the guidance of Ms. Anjali Srivastavaa Ma'am.</strong></p>
+<p><strong>AI Lab Project by TANUJ SINGH — Roll No. 2402221530129</strong><br>
+<strong>Under the guidance of Ms. ANJALI SRIVASTAVAA Ma'am.</strong></p>
 
 <p>Student project based on the <a href="https://github.com/RVC-Boss/GPT-SoVITS">RVC-Boss/GPT-SoVITS</a> codebase. Original attribution and license are retained below.</p>
 
